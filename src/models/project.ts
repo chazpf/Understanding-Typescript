@@ -1,5 +1,4 @@
 // Project model
-
 export enum ProjectStatus {
   Active,
   Finished,
