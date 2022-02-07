@@ -1,3 +1,4 @@
+// Project model
 namespace App {
   export enum ProjectStatus {
     Active,
